@@ -1,2 +1,6 @@
 # AWS-Getting-Started-with-Security
-[![My Skills](https://skillicons.dev/icons?i=awsr&perline=3)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+</p>
